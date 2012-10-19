@@ -7,7 +7,7 @@
     "coverage",
     "reporter"
   ],
-  "version": "0.1.0.1",
+  "version": "0.1.0-1",
   "engines": {
     "node": ">=0.6.0"
   },
